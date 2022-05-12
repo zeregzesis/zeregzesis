@@ -1,6 +1,6 @@
 About me:
 
-  I'm an Applied Informatics student from Poland, I'm mostly proficient in C++ and Python with basic knowledge of Java, JavaScript and PHP. Most of my projects are either for university or are left unfinished.
+  I'm an Applied Informatics student from Poland, I'm mostly proficient in C++ and Python with basic knowledge of Java, JavaScript and PHP. Most of my projects are either for university or are not worth showing.
   
 Work experience so far:
 
